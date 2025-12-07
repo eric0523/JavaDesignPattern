@@ -51,3 +51,4 @@ These patterns deal with object communication and interaction, focusing on how o
 ### Visitor:
     Represents an operation to be performed on the elements of an object structure, allowing new operations to be added without modifying the classes of the elements.
 
+### ![java_design_pattern.png](https://github.com/eric0523/JavaDesignPattern/blob/main/com/example/assert/java_design_pattern.png)
