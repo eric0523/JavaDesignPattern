@@ -1,5 +1,10 @@
 package com.example.pattern.creational.singleton;
 
+/**
+ * Singleton class that uses double-checked locking (DCL) to ensure thread safety.
+ * @author Eric
+ * @date 2025/12/07
+ */
 public class ConfigurationManagerSingleton {
     // The 'volatile' keyword is crucial here.
     // It ensures that any thread reading the 'instance' variable sees the most
