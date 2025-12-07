@@ -1,7 +1,7 @@
 # Java design patterns
 **Java design patterns are reusable solutions to common problems encountered during software development in Java.They represent best practices and provide a structured approach to solving specific design issues, leading to more maintainable, flexible, and scalable code. Design patterns are broadly categorized into three main types:**
        
-![java_design_pattern.png](https://github.com/eric0523/JavaDesignPattern/blob/main/com/example/assert/java_design_pattern.png)
+![java_design_pattern.png](https://github.com/eric0523/JavaDesignPattern/blob/main/com/example/assets/java_design_pattern.png)
 
 ##	Creational Patterns:
 These patterns deal with object creation mechanisms, aiming to create objects in a manner suitable for a particular situation.Examples include:
